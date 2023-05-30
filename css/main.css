@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@200;300&display=swap');
+
+body {
+    font-family: 'Titillium Web', sans-serif;
+    background: #050505;
+}
+
+.navbar-brand {
+    font-size: 20px;
+    color: #000;
+    font-weight: bold;
+}
+
+#testimonial {
+    background: #f1f1f1;
+    padding: 50px 0 30px 0;
+    text-align: center;
+    margin-top: 40px;
+}
+
+#header {
+    background: linear-gradient(0deg, rgba(0, 0, 0, 1), rgba(255, 255, 255, .5)), url("https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react//home/heroes_full.jpg") no-repeat center fixed;
+    background-size: cover;
+}
+
+#testimonial {
+    background: linear-gradient(0deg, rgba(0, 0, 0, 1), rgba(255, 255, 255, .5)), url("https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react//home/radiant_dire5.jpg") no-repeat center fixed;
+    background-size: cover;
+
+}
+
+footer {
+    background: url(../img/smartphones.png);
+}
+ 
+ 
